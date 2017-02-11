@@ -28,7 +28,7 @@ public class CA1D {
 	
 	/** Loads the rules from file.
 	 *  </br></br>
-	 *  Format example (without quotes): "rules=0,1,0,1,0,1"
+	 *  Format example (without quotes): "rules=0,1,1,0,1,1,0,0"
 	 */
 	public CA1D(String rulesFilename) {
 
